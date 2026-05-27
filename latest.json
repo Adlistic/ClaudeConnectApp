@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Release v0.4.2",
-  "pub_date": "2026-05-27T09:26:27.702Z",
+  "version": "0.4.3",
+  "notes": "Release v0.4.3",
+  "pub_date": "2026-05-27T13:35:52.193Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1o5TUhZdVpyNVUvaDVLczNFUXNjaElDU3owcDB0bzFPS01OQUhWdUxJRGNRYTZtdGJTNFVYemc3a095N0MvdXozdUN1R2ZtbUxaU0RDSmFYUDZwdVhhN2dSVytaUFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODczOTg3CWZpbGU6Q2xhdWRlQ29ubmVjdF8wLjQuMl94NjQtc2V0dXAuZXhlCmpENnRqajVGcnl5SmczTGlLY1ppd1RBZHlwc2JpSnFZYXhvSDBhSTRRbVRwcXRrTDlSaVB5MENtMmJrQzAwZlJQZmZqcnBzOUYvM01PaC9MN0JCdkJnPT0K",
-      "url": "https://github.com/Adlistic/ClaudeConnectApp/releases/download/v0.4.2/ClaudeConnect-setup.exe"
+      "url": "https://github.com/Adlistic/ClaudeConnectApp/releases/download/v0.4.3/ClaudeConnect-setup.exe"
     }
   }
 }
